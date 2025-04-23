@@ -42,7 +42,7 @@ MIT License
 
 *[龙芯相关大赛参考文档](https://github.com/LoongsonLab/oscomp-documents)
 
-*[onnxruntime]（https://github.com/microsoft/onnxruntime.git）
+*[onnxruntime](https://github.com/microsoft/onnxruntime.git).
 
 ## 备注
 
